@@ -1,45 +1,90 @@
-![banner](https://github.com/ngrt-sh/ngrt-sh/blob/main/Github%20Banner.png?raw=true)
+<h2 align="center">Hi 👋! My name is ngrt and I'm a developper/network-cyber engineer, from France</h2>
 
-[![X](https://github.com/ngrt-sh/ngrt-sh/blob/main/X.png?raw=true)](https://x.com/ngrt_sh) [![Website](https://github.com/ngrt-sh/ngrt-sh/blob/main/Website%20btn.png?raw=true)](https://ngrt.fr/) [![Mail](https://github.com/ngrt-sh/ngrt-sh/blob/main/Mail%20btn.png?raw=true)](mailto:me@ngrt.fr)
+###
 
----
+<img align="right" height="150" src="https://github.com/midnights-ra1n/ngrt-sh/blob/main/%E2%98%86.jpeg?raw=true"  />
 
-## Little part 
+###
 
-Hi there ✌ You can find here some of my project and automation scripts for Linux (Windows can come here later)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-> Currently working on: **my homelab**
+###
 
----
+<div align="left">
+  <a href="https://discord.com/users/1009715083594711050" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/ngrt_fr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/ngrt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
+</div>
 
-## My stuff
+###
 
-| Computer (Lenovo V15 G3)         | Tablet and Smartphone                          | Accessories   |
-|----------------------------------|------------------------------------------------|---------------|
-| - Debian 12 (GNOME)              | - Apple iPhone 11                              | AirPods Pro 2 |
-| - AMD Ryzen 5 5625U              | - Apple iPad 10th gen (aka my second computer) |
-| - 16 GB of RAM
-| - 2x 500 GB SSD (PCIe & SATA)
+<div align="left">
+  <a href="https://ngrt.fr/" target="_blank">
+  <img height="50" src="https://github.com/midnights-ra1n/ngrt-sh/blob/main/link.png?raw=true"  />
+</div>
 
-I have also a homelab with Proxmox where I can create and run several VMs inside a computer.
+###
 
-## Socials and mail
+<br clear="both">
 
-## My homelab
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-The homelab is composed of **TP-Link Router AX1500** and a **Zyxel Gigabit Switch GS1200-8**.
-I have also a Proxmox server where I run my VMs and CTs.
+###
 
-| Component                                           | What is it?                                                   |
-|-----------------------------------------------------|---------------------------------------------------------------|
-| CPU                                                 | Intel Core i5-3330 (4C-4T) @ 3.20 GHz                         |
-| Memory                                              | 16 GB of RAM                                                  |
-| SSD (Proxmox)                                       | PNY 250 GB SATA SSD                                           |
-| 1st HDD (In passthrough with my Ubuntu Server VM)   | Toshiba 2.5" 1 TB HDD                                         |
-| 2nd HDD (Used with stripe RAID with TrueNAS VM)     | Seagate Barracuda 3.5" 1 TB HDD                               |
-| 3th HDD (same)                                      | Seagate Barracuda 3.5" 1 TB HDD                               |
-| 4th HDD (same)                                      |  Seagate Barracuda 3.5" 1 TB HDD                              |
+<p align="center">I’m focused on infrastructure, systems administration, networking and security engineering.  <br>I like building resilient environments, automating deployments, and understanding how systems behave under the hood.</p>
 
-Here some technologies I use :
+###
 
-<img src="https://raw.githubusercontent.com/ngrt-sh/ngrt-sh/refs/heads/main/Used%20technosV2.png" alt="Technos" width="300"/>
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/midnights-ra1n/midnights-ra1n/output/snake.svg" alt="Snake animation" />
+
+###
